@@ -1,0 +1,14 @@
+C:\Users\xxSpa\source\repos\SingeltonDemo\SingeltonDemo\bin\Debug\net8.0\SingeltonDemo.exe
+C:\Users\xxSpa\source\repos\SingeltonDemo\SingeltonDemo\bin\Debug\net8.0\SingeltonDemo.deps.json
+C:\Users\xxSpa\source\repos\SingeltonDemo\SingeltonDemo\bin\Debug\net8.0\SingeltonDemo.runtimeconfig.json
+C:\Users\xxSpa\source\repos\SingeltonDemo\SingeltonDemo\bin\Debug\net8.0\SingeltonDemo.dll
+C:\Users\xxSpa\source\repos\SingeltonDemo\SingeltonDemo\bin\Debug\net8.0\SingeltonDemo.pdb
+C:\Users\xxSpa\source\repos\SingeltonDemo\SingeltonDemo\obj\Debug\net8.0\SingeltonDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xxSpa\source\repos\SingeltonDemo\SingeltonDemo\obj\Debug\net8.0\SingeltonDemo.AssemblyInfoInputs.cache
+C:\Users\xxSpa\source\repos\SingeltonDemo\SingeltonDemo\obj\Debug\net8.0\SingeltonDemo.AssemblyInfo.cs
+C:\Users\xxSpa\source\repos\SingeltonDemo\SingeltonDemo\obj\Debug\net8.0\SingeltonDemo.csproj.CoreCompileInputs.cache
+C:\Users\xxSpa\source\repos\SingeltonDemo\SingeltonDemo\obj\Debug\net8.0\SingeltonDemo.dll
+C:\Users\xxSpa\source\repos\SingeltonDemo\SingeltonDemo\obj\Debug\net8.0\refint\SingeltonDemo.dll
+C:\Users\xxSpa\source\repos\SingeltonDemo\SingeltonDemo\obj\Debug\net8.0\SingeltonDemo.pdb
+C:\Users\xxSpa\source\repos\SingeltonDemo\SingeltonDemo\obj\Debug\net8.0\SingeltonDemo.genruntimeconfig.cache
+C:\Users\xxSpa\source\repos\SingeltonDemo\SingeltonDemo\obj\Debug\net8.0\ref\SingeltonDemo.dll
